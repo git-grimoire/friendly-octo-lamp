@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "6698bf205c1b993c52598ea1_ed69d2bd-c2ca-4de7-9631-f2e0bba6b02a",
+  "gitSyncId": "6698bf205c1b993c52598ea1_6c836a2c-751f-44e0-853d-5009006ff5a0",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 1070,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 1300,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 128,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 89,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Calendar Mobile",
+    "slug": "calendar-mobile"
   }
 }

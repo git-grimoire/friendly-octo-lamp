@@ -8,5 +8,5 @@
 	"description": "{{inp_newMeetingAgenda.text}}",
 	"summary": "{{inp_newEventTitle.text}}",
 	"attendees": "{{msl_eventAttendees.selectedOptionValues.map(v => {return {email: v}})}}",
-	"timezone": "IST"
+	"notes": {{inp_newEventTitle.text}}
 }

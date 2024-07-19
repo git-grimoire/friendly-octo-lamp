@@ -37,7 +37,7 @@
   "renderMode": "CANVAS",
   "rightColumn": 61,
   "shouldTruncate": false,
-  "text": "https://api.whatsapp.com/send?phone={{Table1.selectedRow.phone.replace(/[()-]/g,'')}}&text={{encodeURI(Input1.text)}}",
+  "text": "https://api.whatsapp.com/send?phone={{users.selectedRow.phone.replace(/[()-]/g,'')}}&text={{encodeURI(Input1.text)}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 49,

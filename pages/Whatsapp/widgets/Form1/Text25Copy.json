@@ -31,7 +31,7 @@
   "renderMode": "CANVAS",
   "rightColumn": 61,
   "shouldTruncate": false,
-  "text": "{{Table1.selectedRow.email}}",
+  "text": "{{users.selectedRow.email}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 12,

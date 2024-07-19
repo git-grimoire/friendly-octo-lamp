@@ -45,7 +45,7 @@
   ],
   "dynamicTriggerPathList": [],
   "isLoading": false,
-  "isVisible": "{{!!Table1.selectedRow.id}}",
+  "isVisible": "{{!!users.selectedRow.id}}",
   "labelTextSize": "0.875rem",
   "leftColumn": 37,
   "maxDynamicHeight": 9000,

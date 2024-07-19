@@ -5,7 +5,7 @@
   "borderRadius": "0px",
   "bottomRow": 48,
   "boxShadow": "none",
-  "defaultText": "Hi {{Table1.selectedRow.name}},\n\n{{JSObject1[appsmith.store.msgName] + ''}}\n\nwww.companywebsite.com",
+  "defaultText": "Hi {{users.selectedRow.name}},\n\n{{JSObject1[appsmith.store.msgName] + ''}}\n\nwww.companywebsite.com",
   "displayName": "Input",
   "dynamicBindingPathList": [
     {

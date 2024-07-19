@@ -30,7 +30,7 @@
   "renderMode": "CANVAS",
   "rightColumn": 61,
   "shouldTruncate": false,
-  "text": "{{Table1.selectedRow.phone}}",
+  "text": "{{users.selectedRow.phone}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 16,

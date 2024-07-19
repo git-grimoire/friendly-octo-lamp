@@ -28,7 +28,7 @@
   "parentId": "cicukwhp5j",
   "parentRowSpace": 10,
   "rightColumn": 51,
-  "text": "{{Table1.selectedRow.name}}",
+  "text": "{{users.selectedRow.name}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 8,

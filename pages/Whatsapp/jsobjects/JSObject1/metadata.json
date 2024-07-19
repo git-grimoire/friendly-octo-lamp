@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6698bf205c1b993c52598ea1_da8c6825-b9cb-45ed-8b1b-7c46c3fb1ff8",
+  "id": "Whatsapp_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Whatsapp",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "welcome",
+        "value": "`Welcome to our group! Here's a link to the new member paperwork:\n`"
+      },
+      {
+        "name": "renewal",
+        "value": "`A friendly reminder that your membership is about to expire. Please renew your subscriptions at:\n`"
+      },
+      {
+        "name": "thankyou",
+        "value": "`Thank you for supporting our group! Your membership has been renewed.\n`"
+      }
+    ]
+  }
+}

@@ -6,6 +6,10 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Whatsapp",
+      "isDefault": false
+    },
+    {
       "id": "Calendar Mobile",
       "isDefault": true
     }
